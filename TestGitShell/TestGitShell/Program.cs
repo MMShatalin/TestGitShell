@@ -9,10 +9,7 @@ namespace TestGitShell
 {
     class Program
     {
-        public Program()
-        {
 
-        }
 
         static void Main(string[] args)
         {
