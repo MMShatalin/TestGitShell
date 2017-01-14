@@ -14,6 +14,8 @@ namespace TestGitShell
         static void Main(string[] args)
         {
             Console.Write("Hi!");
+            //Вывод сообщения!
+
         }
     }
 }
