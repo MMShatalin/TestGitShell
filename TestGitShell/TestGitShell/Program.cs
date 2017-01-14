@@ -15,7 +15,7 @@ namespace TestGitShell
         {
             Console.Write("Hi!");
             //Вывод сообщения!
-
+            Console.Write("Bye!");
         }
     }
 }
